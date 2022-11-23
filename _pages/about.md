@@ -24,7 +24,7 @@ If you are interested in my research and would like collaboration, please feel f
 
 
 
-<h2 id="publications"> Publications</h2>
+<h1 id="publications"> Publications</h1>
 
 
 
@@ -79,7 +79,7 @@ Github code maintainer for \[[1](https://github.com/HL-hanlin/SMKD), [3](https:/
 
 
 
-<h2 id="teaching"> Teaching Assistants</h2>
+<h1 id="teaching"> Teaching Assistants</h1>
 
 
 - COMS 4231 Analysis of Algorithms, Fall 2022
@@ -100,7 +100,7 @@ Github code maintainer for \[[1](https://github.com/HL-hanlin/SMKD), [3](https:/
 
 
 
-<h2 id="services"> Academic Services</h2>
+<h1 id="services"> Academic Services</h1>
 
 
 - Conference Reviewer: ICML 2022, NeurIPS 2022
