@@ -32,7 +32,7 @@ If you are interested in my research and would like collaboration, please feel f
 Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images. 
 <br><br>
 
-### <a name="TANDEM"></a> 2. **(Preprint 2022)** [**Active Tactile Exploration for 3D Object Recognition**](https://arxiv.org/abs/2209.08772)
+### <a name="TANDEM"></a> 2. **(Preprint 2022)** **Active Tactile Exploration for 3D Object Recognition**
 *Jingxi Xu\*, **Han Lin\***, Shuran Song, Matei Ciocarlie*
 <br>\[[Paper](https://arxiv.org/abs/2209.08772)\]\[[Blog](https://jxu.ai/tandem3d/)\]\[[Video](https://www.youtube.com/watch?v=z_90xVf1-88)\]
 
@@ -42,7 +42,7 @@ Highlight: We propose TANDEM3D, a co-training framework for exploration and deci
 <br><br>
 
 
-### <a name="Toeplitz"></a> 3. **(ICML 2022)** [**From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers**](https://arxiv.org/abs/2107.07999)
+### <a name="Toeplitz"></a> 3. **(ICML 2022)** **From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers**
 *Krzysztof Choromanski\*, **Han Lin**\*, Haoxian Chen\*, Tianyi Zhang, Arijit Sehanobish, Valerii Likhosherstov, Jack Parker-Holder, Tamas Sarlos, Adrian Weller, Thomas Weingarten*
 <br>\[[Paper](http://arxiv.org/abs/2107.07999)\]\[[Code](https://github.com/HL-hanlin/GKAT)\]
 
@@ -51,7 +51,7 @@ Highlight: We propose TANDEM3D, a co-training framework for exploration and deci
 Highlight: We leverage many mathematical techniques ranging from spectral analysis through dynamic programming and random walks and proposed a comprehensive approach for incorporating various masking mechanisms into Transformers architectures in a scalable way, including efficient d-dimensional RPE-masking and graph-kernel masking.
 <br><br>
 
-### <a name="HRF"></a> 4. **(ICLR 2022)** [**Hybrid Random Features**](https://arxiv.org/abs/2110.04367)
+### <a name="HRF"></a> 4. **(ICLR 2022)** **Hybrid Random Features**
 *Krzysztof Choromanski\*, **Han Lin**\*, Haoxian Chen\*, Yuanzhe Ma\*, Arijit Sehanobish\*, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller*
 <br>\[[Paper](https://arxiv.org/abs/2110.04367)\]\[[Code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[Video](https://iclr.cc/virtual/2022/poster/6410)\]\[[Slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
 
@@ -60,7 +60,7 @@ Highlight: We leverage many mathematical techniques ranging from spectral analys
 Highlight: We propose a new class of random feature methods for linearizing softmax and Gaussian kernels called hybrid random features (HRFs) equipted with strong theoretical guarantees - unbiased approximation and strictly smaller worst-case relative errors than its counterparts.
 <br><br>
 
-### <a name="GKAT"></a> 5. **(Preprint 2021)** [**Graph Kernel Attention Transformers**](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf)
+### <a name="GKAT"></a> 5. **(Preprint 2021)** **Graph Kernel Attention Transformers**
 *Krzysztof Choromanski\*, **Han Lin**\*, Haoxian Chen\*, Jack Parker-Holder*
 <br>\[[Paper](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf)\]\[[Code](https://github.com/HL-hanlin/GKAT)\]
 
@@ -70,7 +70,7 @@ Highlight: We introduce a new class of graph neural networks, called GKAT, by co
 <br><br>
 
 
-### <a name="OMC"></a> 6. **(NeurIPS 2020)** [**Demystifying Orthogonal Monte Carlo and Beyond**](https://arxiv.org/abs/2005.13590)
+### <a name="OMC"></a> 6. **(NeurIPS 2020)** **Demystifying Orthogonal Monte Carlo and Beyond**
 ***Han Lin**\*, Haoxian Chen\*, Tianyi Zhang, Clement Laroche, Krzysztof Choromanski*
 <br>\[[Paper](https://arxiv.org/abs/2005.13590)\]\[[Code](https://github.com/HL-hanlin/OMC)\]\[[Video](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\]
 
