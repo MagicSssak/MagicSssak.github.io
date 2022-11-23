@@ -36,6 +36,8 @@ Highlight: We propose a novel framework for few-shot Transformers which incorpor
 *Jingxi Xu\*, **Han Lin\***, Shuran Song, Matei Ciocarlie*
 <br>\[[Paper](https://arxiv.org/abs/2209.08772)\]\[[Blog](https://jxu.ai/tandem3d/)\]
 
+<img  src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/TANDEM.png?raw=true"  width="800px"/>
+
 Highlight: We propose TANDEM3D, a co-training framework for exploration and decision making to 3D object recognition with tactile signals. TANDEM3D is based on a novel encoder that builds 3D object representation from contact positions and normals using PointNet++, and enables 6DOF movement.
 
 
