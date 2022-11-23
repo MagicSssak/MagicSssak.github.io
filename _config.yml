@@ -11,9 +11,9 @@ title                    : "Han Lin"
 title_separator          : "-"
 name                     : &name "Han Lin"
 description              : &description "MS in Computer Science at Columbia University"
-url                      : https://hlin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/hlin.github.io"
+repository               : "hl.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Han Lin"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "MS in Computer Science @ Columbia University; interested in theory-grounded algorithms with applications in robotics and computer vision."
+  location         : "New York, NY"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Z9s5gHEAAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "HL-hanlin"
   google_plus      :
   keybase          :
   instagram        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "hanlin_hl"
   vine             :
   weibo            :
   xing             :
