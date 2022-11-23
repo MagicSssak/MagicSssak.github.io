@@ -48,9 +48,16 @@ I have a broad interest in several fields of machine learning, including represe
 - ### **(NeurIPS 2020)** [**Demystifying Orthogonal Monte Carlo and Beyond**](https://arxiv.org/abs/2005.13590)
 
   ***Han Lin\***, Haoxian Chen\*, Tianyi Zhang, Clement Laroche, Krzysztof Choromanski
-*
 
   **Highlight: In this paper we shed new light on the theoretical principles behind Orthogonal Monte Carlo (OMC), applying theory of negatively dependent random variables to obtain several new concentration results. We also propose a novel extensions of the method leveraging number theory techniques and particle algorithms, called Near-Orthogonal Monte Carlo (NOMC).**
+
+
+- ### **(Preprint)** [**Graph Kernel Attention Transformers**]([https://arxiv.org/abs/2005.13590](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf))
+
+  *Krzysztof Choromanski\*, **Han Lin\***, Haoxian Chen\*, Jack Parker-Holder*
+
+  **Highlight: We introduce a new class of graph neural networks, called GKAT, by combining several concepts that were so far studied independently - graph kernels, attention-based networks with structural priors and more recently, efficient Transformers architectures applying small memory footprint implicit attention methods via low rank decomposition techniques.**
+
 
 
 
