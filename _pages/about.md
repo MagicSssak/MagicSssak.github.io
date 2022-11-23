@@ -68,7 +68,10 @@ If you are interested in my research and would like collaboration, please feel f
   Highlight: In this paper we shed new light on the theoretical principles behind Orthogonal Monte Carlo (OMC), applying theory of negatively dependent random variables to obtain several new concentration results. We also propose a novel extensions of the method leveraging number theory techniques and particle algorithms, called Near-Orthogonal Monte Carlo (NOMC).
 
 
-\*: Equal Contribution, Co-First Authors.
+\* Co-First Authors, Equal Contribution.
+
+Slideslive recording \& conference poster presenter for \[[4](https://iclr.cc/virtual/2022/poster/6410), [6](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\] \\
+Github code maintainer for \[[1](https://github.com/HL-hanlin/SMKD), [3](https://github.com/HL-hanlin/GKAT), [4](https://github.com/HL-hanlin/HRF_ICLR2022), [5](https://github.com/HL-hanlin/GKAT), [6](https://github.com/HL-hanlin/OMC)\], contributor for \[[2](https://jxu.ai/tandem3d/)\].
 
 <br />
 
