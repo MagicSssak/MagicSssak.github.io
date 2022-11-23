@@ -23,13 +23,14 @@ If you are interested in my research and would like collaborations, please feel 
 # **Publications**
 
 
-  
-### <li id="SMKD"> 1. **(Preprint 2022)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
+<li id="SMKD"></li>
+
+### 1. **(Preprint 2022)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
 
   ***Han Lin**\*, Guangxing Han\*, Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang*
 
   Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images.
-</li>
+
 
 
 
