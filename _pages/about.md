@@ -18,6 +18,8 @@ I value collaborations a lot. If you are interested in my research, please feel 
 
 **I'm applying to Fall 2023 Ph.D. programs, and also looking for research assistant positions for Spring & Summer 2023.**
 
+<br />
+
 # **Publications**
 
 1. ### **(Preprint 2022)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
@@ -61,7 +63,7 @@ I value collaborations a lot. If you are interested in my research, please feel 
 
 
 
-
+<br />
 
 
 
@@ -82,6 +84,7 @@ I value collaborations a lot. If you are interested in my research, please feel 
   - Prof. Adam Elmachtoub, Department of IEOR, Columbia University
 
 
+<br />
 
 # **Services**
 
