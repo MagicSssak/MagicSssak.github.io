@@ -44,7 +44,7 @@ Highlight: We propose TANDEM3D, a co-training framework for exploration and deci
 <br>\[[Paper](http://arxiv.org/abs/2107.07999)\]\[[Code](https://github.com/HL-hanlin/GKAT)\]
 
 Highlight: We leverage many mathematical techniques ranging from spectral analysis through dynamic programming and random walks and proposed a comprehensive approach for incorporating various masking mechanisms into Transformers architectures in a scalable way, including efficient d-dimensional RPE-masking and graph-kernel masking.
-<br><img  src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/Toeplitz.png?raw=true"  width="800px"/>
+<br><img  src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/Toeplitz.png?raw=true" height='250px'  width="750px"/>
 
 
 ### <a name="HRF"></a> 4. **(ICLR 2022)** [**Hybrid Random Features**](https://arxiv.org/abs/2110.04367)
