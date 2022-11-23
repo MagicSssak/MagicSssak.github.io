@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm a second year master student majoring in Computer Science at Columbia University. I'm a member of the [Robotic Manipulation and Mobility (ROAM) Lab](https://roam.me.columbia.edu/) at Columbia University, fortunate to be advised by Professor [Matei Ciocarlie](https://www.me.columbia.edu/faculty/matei-ciocarlie), Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/), and [Jingxi Xu](https://jxu.ai/) on robotics projects; a research assistant at the [Digital Video and Multimedia (DVMM) Lab](https://www.ee.columbia.edu/ln/dvmm/) at Columbia University, fortunate to be advised by Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and [Guangxing Han](https://guangxinghan.github.io/) on computer vision projects. I also work closely with Professor [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/) on multiple projects related to ML theories and algorithms.
+I'm a second year master student majoring in Computer Science at Columbia University. I'm a member of the [Robotic Manipulation and Mobility (ROAM) Lab](https://roam.me.columbia.edu/) and the [Digital Video and Multimedia (DVMM) Lab](https://www.ee.columbia.edu/ln/dvmm/) at Columbia University, fortunate to be advised by Professor [Matei Ciocarlie](https://www.me.columbia.edu/faculty/matei-ciocarlie), Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/), and [Jingxi Xu](https://jxu.ai/) on robotics projects; Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and [Guangxing Han](https://guangxinghan.github.io/) on computer vision projects. I also work closely with Professor [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/) on multiple projects related to ML theories and algorithms.
 
 
 I have a broad interest in several fields of machine learning, including representation learning, reinforcement learning, architecture design (Transformers, Graph Neural Networks), as well as Monte Carlo methods. Despite such diversity, I'm mostly interested in the **theory-grounded algorithms** behind these areas. Specifically, my research aims at making machine learning more *efficient*, *scalable*, as well as designing *simple but effective* learning algorithms as a *better alternative to traditional heuristics*.
@@ -19,7 +19,7 @@ I value collaborations a lot. If you are interested in my research, please feel 
 
 # **Publications**
 
-- ### **(Preprint 2022)** **Supervised Masked Knowledge Distillation \\for Few-shot Transformers**
+- ### **(Preprint 2022)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
 
   ***Han Lin**\*, Guangxing Han\*, Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang*
 
