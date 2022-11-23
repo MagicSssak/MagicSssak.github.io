@@ -23,7 +23,7 @@ If you are interested in my research and would like collaboration, please feel f
 
 
 
-# **<h3 id="publications">Publications</h3>**
+# ** <h3 id="publications">Publications</h3> **
 
 
 
