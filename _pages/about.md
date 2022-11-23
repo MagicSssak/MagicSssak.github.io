@@ -95,7 +95,7 @@ Github code maintainer for \[[1](https://github.com/HL-hanlin/SMKD), [3](https:/
 
 <br />
 
-# **Services**
+# **Academic Services**
 
 - Conference Reviewer: ICML 2022, NeurIPS 2022
 - Conference Volunteer: RSS 2022
