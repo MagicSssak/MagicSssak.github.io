@@ -14,7 +14,7 @@ I'm a second year master student majoring in Computer Science at Columbia Univer
 
 I have a broad interest in several fields of machine learning, including representation learning, reinforcement learning, architecture design (Transformers, Graph Neural Networks), as well as Monte Carlo methods. Despite such diversity, I'm mostly interested in the **theory-grounded algorithms** behind these areas. Specifically, my research aims at making machine learning more *efficient*, *scalable*, as well as designing *simple but effective* learning algorithms as a *better alternative to traditional heuristics*.
 
-I value collaborations a lot. If you are interested in my research, please feel free to contact me via email: hl3199 at columbia dot edu :)
+I value collaborations a lot. If you are interested in my research, please feel free to contact me via email: hl3199 at columbia dot edu! :)
 
 
 # **Publications**
