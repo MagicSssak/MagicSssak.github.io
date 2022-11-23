@@ -92,7 +92,7 @@ Github code maintainer for \[[1](https://github.com/HL-hanlin/SMKD), [3](https:/
 <h1 id="teaching"> Teaching Assistants</h1>
 
 
-- COMS 4231 Analysis of Algorithms, Fall 2022
+- [COMS 4231 Analysis of Algorithms](http://www.cs.columbia.edu/~mihalis/cs4231/syllabus.html), Fall 2022
   - Prof. Mihalis Yannakakis, Department of Computer Science, Columbia University
 - COMS 4732 Computer Vision 2: Learning, Spring 2022 
   - Prof. Carl Vondrick, Department of Computer Science, Columbia University
