@@ -84,8 +84,7 @@ I have a broad interest in several fields of machine learning, including represe
 
 # **Services**
 
-Conference Reviewer: ICML 2022, NeurIPS 2022
-
-Conference Volunteer: RSS 2022
+- Conference Reviewer: ICML 2022, NeurIPS 2022
+- Conference Volunteer: RSS 2022
 
 
