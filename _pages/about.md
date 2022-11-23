@@ -38,7 +38,7 @@ If you are interested in my research and would like collaboration, please feel f
 
   *Jingxi Xu\*, **Han Lin\***, Shuran Song, Matei Ciocarlie*
 
-  Highlight: We propose TANDEM3D, a method that applies a co-training framework for exploration and decision making to 3D object recognition with tactile signals.
+  Highlight: We propose TANDEM3D, a co-training framework for exploration and decision making to 3D object recognition with tactile signals. TANDEM3D is based on a novel encoder that builds 3D object representation from contact positions and normals using PointNet++, and enables 6DOF movement.
 
 ### <a name="Toeplitz"></a> 3. **(ICML 2022)** [**From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers**](https://arxiv.org/abs/2107.07999)
 
