@@ -27,7 +27,7 @@ If you are interested in my research and would like collaboration, please feel f
 ***Han Lin**\*, Guangxing Han\*, Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang*
 <br>[Paper]\[[Code](https://github.com/HL-hanlin/SMKD)\]
 
-<img align="left" src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/SMKD2.png?raw=true" width="125px"/>Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images. 
+<img align="left" src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/SMKD2.png?raw=true" height='125px' width="125px"/>Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images. 
 
 
 ### <a name="TANDEM"></a> 2. **(Preprint 2022)** [**Active Tactile Exploration for 3D Object Recognition**](https://arxiv.org/abs/2209.08772)
