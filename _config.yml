@@ -11,9 +11,9 @@ title                    : "Han Lin"
 title_separator          : "-"
 name                     : &name "Han Lin"
 description              : &description "MS in Computer Science at Columbia University"
-url                      : https://hl.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://HL-hanlin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hl.github.io"
+repository               : "HL-hanlin.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
