@@ -11,7 +11,6 @@ redirect_from:
 
 I'm a second-year master‘s student majoring in Computer Science at Columbia University. I'm a member of the [Robotic Manipulation and Mobility (ROAM) Lab](https://roam.me.columbia.edu/) and the [Digital Video and Multimedia (DVMM) Lab](https://www.ee.columbia.edu/ln/dvmm/) at Columbia University, fortunate to be advised by Professor [Matei Ciocarlie](https://www.me.columbia.edu/faculty/matei-ciocarlie), Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/), and [Jingxi Xu](https://jxu.ai/) on robotics projects; Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and [Guangxing Han](https://guangxinghan.github.io/) on computer vision projects. I also work closely with Professor [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/) on multiple projects related to ML theories and algorithms.
 
-
 I have a broad interest in several fields of machine learning, including representation learning, reinforcement learning, architecture design (Transformers, Graph Neural Networks), as well as Monte Carlo methods. Despite such diversity, I'm mostly interested in the **theory-grounded algorithms** behind these areas. Specifically, my research aims at making machine learning more *efficient* \[[4](#HRF),[6](#OMC)\] and *scalable* \[[3](#Toeplitz),
 [5](#GKAT)], as well as designing *simple but effective*\[[1](#SMKD)\] learning algorithms as a *better alternative to traditional heuristics*\[[2](#TANDEM)\].
 
@@ -19,20 +18,16 @@ If you are interested in my research and would like collaboration, please feel f
 
 **I'm applying to Fall 2023 CS Ph.D. programs and looking for Spring & Summer 2023 research assistant positions. Feel free to reach out!**
 
-<br />
-
-
+<br/>
 
 
 <h1 id="publications"> Publications</h1>
 
-
-
 ### <a name="SMKD"></a> 1. **(Preprint 2022)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
 
   ***Han Lin**\*, Guangxing Han\*, Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang*
-
-  Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images. <br>[Paper]\[[Code](https://github.com/HL-hanlin/SMKD)\]
+<br>[Paper]\[[Code](https://github.com/HL-hanlin/SMKD)\]
+<br>Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images. 
 
 
 
