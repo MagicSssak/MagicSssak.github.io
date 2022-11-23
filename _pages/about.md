@@ -21,7 +21,9 @@ If you are interested in my research and would like collaboration, please feel f
 
 <br />
 
-# **Publications**
+
+
+# **<h2 id="publications">Publications</h2>**
 
 
 
