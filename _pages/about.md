@@ -19,13 +19,13 @@ I have a broad interest in several fields of machine learning, including represe
 
 # **Publications**
 
-- ### **(Preprint)** **Supervised Masked Knowledge Distillation \\for Few-shot Transformers**
+- ### **(Preprint 2022)** **Supervised Masked Knowledge Distillation \\for Few-shot Transformers**
 
   ***Han Lin**\*, Guangxing Han\*, Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang*
 
   **Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images.**
 
-- ### **(Preprint)** [**Active Tactile Exploration for 3D Object Recognition**](https://arxiv.org/abs/2209.08772)
+- ### **(Preprint 2022)** [**Active Tactile Exploration for 3D Object Recognition**](https://arxiv.org/abs/2209.08772)
 
   *Jingxi Xu\*, **Han Lin\***, Shuran Song, Matei Ciocarlie*
 
@@ -45,6 +45,13 @@ I have a broad interest in several fields of machine learning, including represe
   **Highlight: We propose a new class of random feature methods for linearizing softmax and Gaussian kernels called hybrid random features (HRFs) equipted with strong theoretical guarantees - unbiased approximation and strictly smaller worst-case relative errors than its counterparts.**
 
 
+- ### **(Preprint 2021)** [**Graph Kernel Attention Transformers**](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf)
+
+  *Krzysztof Choromanski\*, **Han Lin\***, Haoxian Chen\*, Jack Parker-Holder*
+
+  **Highlight: We introduce a new class of graph neural networks, called GKAT, by combining several concepts that were so far studied independently - graph kernels, attention-based networks with structural priors and more recently, efficient Transformers architectures applying small memory footprint implicit attention methods via low rank decomposition techniques.**
+  
+
 - ### **(NeurIPS 2020)** [**Demystifying Orthogonal Monte Carlo and Beyond**](https://arxiv.org/abs/2005.13590)
 
   ***Han Lin\***, Haoxian Chen\*, Tianyi Zhang, Clement Laroche, Krzysztof Choromanski*
@@ -52,11 +59,6 @@ I have a broad interest in several fields of machine learning, including represe
   **Highlight: In this paper we shed new light on the theoretical principles behind Orthogonal Monte Carlo (OMC), applying theory of negatively dependent random variables to obtain several new concentration results. We also propose a novel extensions of the method leveraging number theory techniques and particle algorithms, called Near-Orthogonal Monte Carlo (NOMC).**
 
 
-- ### **(Preprint)** [**Graph Kernel Attention Transformers**](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf)
-
-  *Krzysztof Choromanski\*, **Han Lin\***, Haoxian Chen\*, Jack Parker-Holder*
-
-  **Highlight: We introduce a new class of graph neural networks, called GKAT, by combining several concepts that were so far studied independently - graph kernels, attention-based networks with structural priors and more recently, efficient Transformers architectures applying small memory footprint implicit attention methods via low rank decomposition techniques.**
 
 
 
