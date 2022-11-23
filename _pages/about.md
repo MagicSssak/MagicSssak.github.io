@@ -23,7 +23,7 @@ If you are interested in my research and would like collaboration, please feel f
 
 
 
-# ** <h3 id="publications">Publications</h3> **
+# <a name="publications"></a> **Publications**
 
 
 
@@ -78,7 +78,8 @@ Github code maintainer for \[[1](https://github.com/HL-hanlin/SMKD), [3](https:/
 
 
 
-# **<h3 id="teaching">Teaching Assistants</h3>**
+
+# <a name="teaching"></a> **Teaching Assistants**
 
 - COMS 4231 Analysis of Algorithms, Fall 2022
   - Prof. Mihalis Yannakakis, Department of Computer Science, Columbia University
@@ -96,7 +97,9 @@ Github code maintainer for \[[1](https://github.com/HL-hanlin/SMKD), [3](https:/
 
 <br />
 
-# **<h3 id="services">Academic Services</h3>**
+
+# <a name="services"></a> **Academic Services**
+
 
 - Conference Reviewer: ICML 2022, NeurIPS 2022
 - Conference Volunteer: RSS 2022
