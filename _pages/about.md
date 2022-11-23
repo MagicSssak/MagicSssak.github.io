@@ -64,7 +64,7 @@ Highlight: We propose a new class of random feature methods for linearizing soft
 *Krzysztof Choromanski\*, **Han Lin**\*, Haoxian Chen\*, Jack Parker-Holder*
 <br>\[[Paper](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf)\]\[[Code](https://github.com/HL-hanlin/GKAT)\]
 
-<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/GKAT.png?raw=true"  width="800px"/>
+<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/GKAT.png?raw=true"  width="750px"/>
 
 Highlight: We introduce a new class of graph neural networks, called GKAT, by combining several concepts that were so far studied independently - graph kernels, attention-based networks with structural priors and more recently, efficient Transformers architectures applying small memory footprint implicit attention methods via low rank decomposition techniques.
 <br><br>
