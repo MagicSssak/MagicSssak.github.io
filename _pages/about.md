@@ -23,9 +23,8 @@ If you are interested in my research and would like collaborations, please feel 
 # **Publications**
 
 
-<li id="SMKD"></li>
 
-### 1. **(Preprint 2022)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
+### <a name="SMKD"></a> 1. **(Preprint 2022)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
 
   ***Han Lin**\*, Guangxing Han\*, Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang*
 
