@@ -8,5 +8,67 @@ redirect_from:
   - /about.html
 ---
 
-This is Han Lin's home on the web!
+
+I am a second year master student majoring in Computer Science at Columbia University. I'm a member of the [Robotic Manipulation and Mobility (ROAM) Lab](https://roam.me.columbia.edu/) at Columbia University, fortunate to be advised by Professor [Matei Ciocarlie](https://www.me.columbia.edu/faculty/matei-ciocarlie), Professor [Shuran Song](https://www.cs.columbia.edu/~shurans/), and [Jingxi Xu](https://jxu.ai/) on robotics projects; a research assistant at the [Digital Video and Multimedia (DVMM) Lab](https://www.ee.columbia.edu/ln/dvmm/) at Columbia University, fortunate to be advised by Professor [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and [Guangxing Han](https://guangxinghan.github.io/) on computer vision projects. I also work closely with Professor [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/) on multiple projects related to ML theories and algorithms.
+
+
+I have a broad interest in several fields of machine learning, including representation learning, reinforcement learning, architecture design (Transformers, Graph Neural Networks), as well as Monte Carlo methods. Despite such diversity, I'm mostly interested in the **theory-grounded algorithms** behind these areas. Specifically, my research aims at making machine learning more *efficient*, *scalable*, as well as designing *simple but effective* learning algorithms as a *better alternative to traditional heuristics*.
+
+
+
+
+# **Publications**
+
+- ### **(Preprint)** **Supervised Masked Knowledge Distillation \\for Few-shot Transformers**
+
+  ***Han Lin**\*, Guangxing Han\*, Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang*
+
+  **Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images.**
+
+- ### **(Preprint)** [**Active Tactile Exploration for 3D Object Recognition**](https://arxiv.org/abs/2209.08772)
+
+  *Jingxi Xu\*, **Han Lin\***, Shuran Song, Matei Ciocarlie*
+
+  **Highlight: We propose TANDEM3D, a method that applies a co-training framework for exploration and decision making to 3D object recognition with tactile signals.**
+
+- ### **(ICML 2022)** [**From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers**](https://arxiv.org/abs/2107.07999)
+
+  *Krzysztof Choromanski\*, **Han Lin\***, Haoxian Chen\*, Tianyi Zhang, Arijit Sehanobish, Valerii Likhosherstov, Jack Parker-Holder, Tamas Sarlos, Adrian Weller, Thomas Weingarten*
+
+  **Highlight: We leverage many mathematical techniques ranging from spectral analysis through dynamic programming and random walks and proposed a comprehensive approach for incorporating various masking mechanisms into Transformers architectures in a scalable way, including efficient d-dimensional RPE-masking and graph-kernel masking.**
+
+
+- ### **(ICLR 2022)** [**Hybrid Random Features**](https://arxiv.org/abs/2110.04367)
+
+  *Krzysztof Choromanski\*, **Han Lin\***, Haoxian Chen\*, Yuanzhe Ma\*, Arijit Sehanobish\*, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller*
+
+  **Highlight: We propose a new class of random feature methods for linearizing softmax and Gaussian kernels called hybrid random features (HRFs) equipted with strong theoretical guarantees - unbiased approximation and strictly smaller worst-case relative errors than its counterparts.**
+
+
+- ### **(NeurIPS 2020)** [**Demystifying Orthogonal Monte Carlo and Beyond**](https://arxiv.org/abs/2005.13590)
+
+  ***Han Lin\***, Haoxian Chen\*, Tianyi Zhang, Clement Laroche, Krzysztof Choromanski
+*
+
+  **Highlight: In this paper we shed new light on the theoretical principles behind Orthogonal Monte Carlo (OMC), applying theory of negatively dependent random variables to obtain several new concentration results. We also propose a novel extensions of the method leveraging number theory techniques and particle algorithms, called Near-Orthogonal Monte Carlo (NOMC).**
+
+
+
+
+# **Teaching Experience**
+
+
+- COMS 4231 Analysis of Algorithms, Fall 2022
+  - Prof. Mihalis Yannakakis, Department of Computer Science, Columbia University
+- COMS 4732 Computer Vision 2: Learning, Spring 2022 
+  - Prof. Carl Vondrick, Department of Computer Science, Columbia University
+- COMS 4721 Machine Learning for Data Science, Spring 2022 
+  - Prof. Daniel Hsu, Department of Computer Science, Columbia University
+- QMSS 5073 Machine Learning for Social Science, Fall 2021
+  - Prof. Michael Parrott, Department of Statistics, Columbia University
+- IEOR 4007 Optimization Models & Methods for FE, Fall 2019 
+  - Prof. Garud Iyengar, Department of IEOR, Columbia University
+- IEOR 4418 Transportation Analytics & Logistics, Spring 2019 
+  - Prof. Adam Elmachtoub, Department of IEOR, Columbia University
+
 
