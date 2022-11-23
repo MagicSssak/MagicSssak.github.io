@@ -16,7 +16,7 @@ I have a broad interest in several fields of machine learning, including represe
 
 If you are interested in my research and would like collaborations, please feel free to contact me via email: hl3199 at columbia dot edu! :)
 
-** @@I'm applying to Fall 2023 Ph.D. programs, and also looking for research assistant positions for Spring & Summer 2023.@@ **
+** I'm applying to Fall 2023 Ph.D. programs, and looking for research assistant positions for Spring & Summer 2023. Feel free to reach out!**
 
 <br />
 
