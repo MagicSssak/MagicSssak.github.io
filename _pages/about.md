@@ -54,7 +54,7 @@ I have a broad interest in several fields of machine learning, including represe
 
 - ### **(NeurIPS 2020)** [**Demystifying Orthogonal Monte Carlo and Beyond**](https://arxiv.org/abs/2005.13590)
 
-  ***Han Lin\***, Haoxian Chen\*, Tianyi Zhang, Clement Laroche, Krzysztof Choromanski*
+  * **Han Lin**\* **, Haoxian Chen\*, Tianyi Zhang, Clement Laroche, Krzysztof Choromanski*
 
   **Highlight: In this paper we shed new light on the theoretical principles behind Orthogonal Monte Carlo (OMC), applying theory of negatively dependent random variables to obtain several new concentration results. We also propose a novel extensions of the method leveraging number theory techniques and particle algorithms, called Near-Orthogonal Monte Carlo (NOMC).**
 
