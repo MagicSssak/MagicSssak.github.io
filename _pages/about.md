@@ -69,7 +69,7 @@ If you are interested in my research and would like collaboration, please feel f
 
 
 \* Co-First Authors, Equal Contribution.\\
-Slideslive video recording and conference poster presenter for \[[4](https://iclr.cc/virtual/2022/poster/6410), [6](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\] \\
+Slideslive video recording and conference poster presenter for \[[4](https://iclr.cc/virtual/2022/poster/6410), [6](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\]. \\
 Github code maintainer for \[[1](https://github.com/HL-hanlin/SMKD), [3](https://github.com/HL-hanlin/GKAT), [4](https://github.com/HL-hanlin/HRF_ICLR2022), [6](https://github.com/HL-hanlin/OMC)\], contributor for \[[2](https://jxu.ai/tandem3d/)\].
 
 <br />
