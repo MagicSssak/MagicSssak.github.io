@@ -76,7 +76,7 @@ Github code maintainer for \[[1](https://github.com/HL-hanlin/SMKD), [3](https:/
 
 
 
-# **Teaching Experience**
+# **Teaching Assistants**
 
 
 - COMS 4231 Analysis of Algorithms, Fall 2022
