@@ -74,8 +74,9 @@ Highlight: We introduce a new class of graph neural networks, called GKAT, by co
 ***Han Lin**\*, Haoxian Chen\*, Tianyi Zhang, Clement Laroche, Krzysztof Choromanski*
 <br>\[[Paper](https://arxiv.org/abs/2005.13590)\]\[[Code](https://github.com/HL-hanlin/OMC)\]\[[Video](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\]
 
-<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/OMC.png?raw=true"  width="750px"/>
-<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/OMC2.png?raw=true"  width="750px"/>
+<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/OMC.png?raw=true"  width="650px"/>
+<br>
+<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/OMC2.png?raw=true"  width="650px"/>
 
 Highlight: In this paper we shed new light on the theoretical principles behind Orthogonal Monte Carlo (OMC), applying theory of negatively dependent random variables to obtain several new concentration results. We also propose a novel extensions of the method leveraging number theory techniques and particle algorithms, called Near-Orthogonal Monte Carlo (NOMC).
 <br><br>
