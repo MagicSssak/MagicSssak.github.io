@@ -44,7 +44,7 @@ Highlight: We propose TANDEM3D, a co-training framework for exploration and deci
 
 ### <a name="Toeplitz"></a> 3. **(ICML 2022)** [**From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers**](http://arxiv.org/abs/2107.07999)
 *Krzysztof Choromanski\*, **Han Lin**\*, Haoxian Chen\*, Tianyi Zhang, Arijit Sehanobish, Valerii Likhosherstov, Jack Parker-Holder, Tamas Sarlos, Adrian Weller, Thomas Weingarten*
-<br>\[[Paper](http://arxiv.org/abs/2107.07999)\]\[[Code](https://github.com/HL-hanlin/GKAT)\]
+<br>\[[Paper](http://arxiv.org/abs/2107.07999)\]\[[Code](https://github.com/HL-hanlin/GKAT)\]\[[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/f231f2107df69eab0a3862d50018a9b2_mzhGQSV.png)\]
 
 <img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/Toeplitz.png?raw=true" height='200px'  width="700px"/>
 
