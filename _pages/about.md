@@ -9,12 +9,12 @@ redirect_from:
 ---
 
 
-I'm a second-year master‘s student majoring in Computer Science at Columbia University. I'm a member of the [Digital Video and Multimedia (DVMM) Lab](https://www.ee.columbia.edu/ln/dvmm/) and the [Robotic Manipulation and Mobility (ROAM) Lab](https://roam.me.columbia.edu/) at Columbia University, fortunate to be advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and [Guangxing Han](https://guangxinghan.github.io/) on computer vision projects; Prof. [Matei Ciocarlie](https://www.me.columbia.edu/faculty/matei-ciocarlie), Prof. [Shuran Song](https://www.cs.columbia.edu/~shurans/), and [Jingxi Xu](https://jxu.ai/) on robotics projects. I also have the great pleasure to work with Prof. [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/) on several projects related to deep learning theories and algorithms.
+I'm a second-year master's student majoring in Computer Science at Columbia University. I'm a member of the [Digital Video and Multimedia (DVMM) Lab](https://www.ee.columbia.edu/ln/dvmm/) and the [Robotic Manipulation and Mobility (ROAM) Lab](https://roam.me.columbia.edu/) at Columbia University, fortunate to be advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and [Guangxing Han](https://guangxinghan.github.io/) on computer vision projects; Prof. [Matei Ciocarlie](https://www.me.columbia.edu/faculty/matei-ciocarlie), Prof. [Shuran Song](https://www.cs.columbia.edu/~shurans/), and [Jingxi Xu](https://jxu.ai/) on robotics projects. I also have the great pleasure to work with Prof. [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/) on several projects related to deep learning theories and algorithms.
 
 I'm interested in several fields of machine learning, including representation learning, reinforcement learning, deep learning frameworks design (e.g. Transformers, GNNs), as well as Monte Carlo methods. Despite such diversity, I'm chiefly fond of the **theory-grounded algorithms** with applications in computer vision and robotics. Specifically, my research aims at making algorithms more *efficient* \[[4](#HRF),[6](#OMC)\] and *scalable* \[[3](#Toeplitz),
 [5](#GKAT)], as well as designing *simple but effective*\[[1](#SMKD)\] learning algorithms as a *better alternative to traditional heuristics*\[[2](#TANDEM)\].
 
-If you are interested in my research and would like collaboration, please feel free to contact me via email: hl3199 at columbia dot edu! :)
+If you are interested in my research and would like collaboration, please feel free to contact me via email! :)
 
 **I'm applying for Fall 2023 CS Ph.D. programs and looking for Spring & Summer 2023 research assistant positions. Feel free to reach out!**
 
@@ -73,7 +73,6 @@ Highlight: We introduce a new class of graph neural networks, called GKAT, by co
 ### <a name="OMC"></a> 6. **(NeurIPS 2020)** [**Demystifying Orthogonal Monte Carlo and Beyond**](https://arxiv.org/abs/2005.13590)
 ***Han Lin**\*, Haoxian Chen\*, Tianyi Zhang, Clement Laroche, Krzysztof Choromanski*
 <br>\[[Paper](https://arxiv.org/abs/2005.13590)\]\[[Code](https://github.com/HL-hanlin/OMC)\]\[[Video](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\]
-
 <img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/OMC.png?raw=true"  width="700px"/>
 
 <img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/OMC2.png?raw=true"  width="700px"/>
