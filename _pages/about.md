@@ -32,7 +32,7 @@ If you are interested in my research and would like collaboration, please feel f
 Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images. 
 <br><br>
 
-### <a name="TANDEM"></a> 2. **(Preprint 2022)** [**Active Tactile Exploration for 3D Object Recognition**](https://arxiv.org/abs/2209.08772)
+### <a name="TANDEM"></a> 2. **(ICRA 2023)** [**Active Tactile Exploration for 3D Object Recognition**](https://arxiv.org/abs/2209.08772)
 *Jingxi Xu\*, **Han Lin\***, Shuran Song, Matei Ciocarlie*
 <br>\[[Paper](https://arxiv.org/abs/2209.08772)\]\[[Blog](https://jxu.ai/tandem3d/)\]\[[Video](https://www.youtube.com/watch?v=z_90xVf1-88)\]
 
