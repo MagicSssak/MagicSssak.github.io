@@ -28,9 +28,9 @@ If you are interested in my research and would like collaboration, please feel f
 *Krzysztof Choromanski\*, Arijit Sehanobish\*, **Han Lin**\*, Yunfan Zhao\*, Eli Berger, Alvin Pan, Tetiana Parshakova, Tianyi Zhang, David Watkins, Valerii Likhosherstov, Somnath Basu Roy Chowdhury, Avinava Dubey, Deepali Jain, Tamas Sarlos, Snigdha Chaturvedi, Adrian Weller*
 <br>[Paper coming soon]
 
-<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/ICML2023_front_image.pdf?raw=true"  width="820px"/>
+<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/ICML2023_front_image.png?raw=true"  width="820px"/>
 
-Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images. 
+Highlight: We present two new classes of algorithms for efficient field integration on graphs encoding point clouds.
 <br><br>
 
 ### <a name="SMKD"></a> 2. **(Preprint 2022)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
