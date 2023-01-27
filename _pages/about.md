@@ -11,8 +11,8 @@ redirect_from:
 
 I'm a second-year master's student majoring in Computer Science at Columbia University. I'm a member of the [Digital Video and Multimedia (DVMM) Lab](https://www.ee.columbia.edu/ln/dvmm/) and the [Robotic Manipulation and Mobility (ROAM) Lab](https://roam.me.columbia.edu/) at Columbia University, fortunate to be advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and [Guangxing Han](https://guangxinghan.github.io/) on few-shot learning with Transformers; Prof. [Matei Ciocarlie](https://www.me.columbia.edu/faculty/matei-ciocarlie), Prof. [Shuran Song](https://www.cs.columbia.edu/~shurans/), and [Jingxi Xu](https://jxu.ai/) on tactile exploration for 3D objects. I also have the great pleasure to work with Prof. [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/) on several projects related to kernelized attention on Transformers and Graph Neural Networks.
 
-My research spans several fields of machine learning, including representation learning, reinforcement learning, deep learning frameworks design (e.g. Transformers, GNNs), as well as Monte Carlo methods. Despite such diversity, I'm chiefly fond of the **theory-grounded algorithms** with applications in computer vision and robotics. Specifically, my research aims at making algorithms more *efficient* \[[4](#HRF),[6](#OMC)\] and *scalable* \[[3](#Toeplitz),
-[5](#GKAT)], as well as designing *simple but effective* \[[1](#SMKD)\] learning algorithms as a *better alternative to traditional heuristics* \[[2](#TANDEM)\].
+My research spans several fields of machine learning, including representation learning, reinforcement learning, deep learning frameworks design (e.g. Transformers, GNNs), as well as Monte Carlo methods. Despite such diversity, I'm chiefly fond of the **theory-grounded algorithms** with applications in computer vision and robotics. Specifically, my research aims at making algorithms more *efficient* \[[1](#Topographer),[5](#HRF),[7](#OMC)\] and *scalable* \[[4](#Toeplitz),
+[6](#GKAT)], as well as designing *simple but effective* \[[2](#SMKD)\] learning algorithms as a *better alternative to traditional heuristics* \[[3](#TANDEM)\].
 
 If you are interested in my research and would like collaboration, please feel free to contact me via email! :)
 
@@ -23,7 +23,17 @@ If you are interested in my research and would like collaboration, please feel f
 
 <h1 id="publications"> Publications</h1>
 
-### <a name="SMKD"></a> 1. **(Preprint 2022)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
+
+### <a name="Topographer"></a> 1. **(Preprint 2023)** **Efficient Graph Field Integrators Meet Point Clouds**
+*Krzysztof Choromanski\*, Arijit Sehanobish\*, **Han Lin**\*, Yunfan Zhao\*, Eli Berger, Alvin Pan, Tetiana Parshakova, Tianyi Zhang, David Watkins, Valerii Likhosherstov, Somnath Basu Roy Chowdhury, Avinava Dubey, Deepali Jain, Tamas Sarlos, Snigdha Chaturvedi, Adrian Weller*
+<br>[Paper coming soon]
+
+<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/ICML2023_front_image.pdf?raw=true"  width="820px"/>
+
+Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images. 
+<br><br>
+
+### <a name="SMKD"></a> 2. **(Preprint 2022)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
 ***Han Lin**\*, Guangxing Han\*, Jiawei Ma, Shiyuan Huang, Xudong Lin, Shih-Fu Chang*
 <br>[Paper coming soon]\[[Code](https://github.com/HL-hanlin/SMKD)\]\[[Slides](https://www.dropbox.com/s/29n9gjgzbqjqqbk/SMKD.pdf?dl=0)\]
 
@@ -32,7 +42,7 @@ If you are interested in my research and would like collaboration, please feel f
 Highlight: We propose a novel framework for few-shot Transformers which incorporates label information into self-distillation. Compared with previous self-supervised methods, we allow intra-class knowledge distillation on both class and patch tokens, and introduce the challenging task of masked patch tokens reconstruction across intra-class images. 
 <br><br>
 
-### <a name="TANDEM"></a> 2. **(ICRA 2023)** [**Active Tactile Exploration for 3D Object Recognition**](https://arxiv.org/abs/2209.08772)
+### <a name="TANDEM"></a> 3. **(ICRA 2023)** [**Active Tactile Exploration for 3D Object Recognition**](https://arxiv.org/abs/2209.08772)
 *Jingxi Xu\*, **Han Lin\***, Shuran Song, Matei Ciocarlie*
 <br>\[[Paper](https://arxiv.org/abs/2209.08772)\]\[[Blog](https://jxu.ai/tandem3d/)\]\[[Video](https://www.youtube.com/watch?v=z_90xVf1-88)\]
 
@@ -42,7 +52,7 @@ Highlight: We propose TANDEM3D, a co-training framework for exploration and deci
 <br><br>
 
 
-### <a name="Toeplitz"></a> 3. **(ICML 2022)** [**From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers**](http://arxiv.org/abs/2107.07999)
+### <a name="Toeplitz"></a> 4. **(ICML 2022)** [**From block-Toeplitz matrices to differential equations on graphs: towards a general theory for scalable masked Transformers**](http://arxiv.org/abs/2107.07999)
 *Krzysztof Choromanski\*, **Han Lin**\*, Haoxian Chen\*, Tianyi Zhang, Arijit Sehanobish, Valerii Likhosherstov, Jack Parker-Holder, Tamas Sarlos, Adrian Weller, Thomas Weingarten*
 <br>\[[Paper](http://arxiv.org/abs/2107.07999)\]\[[Code](https://github.com/HL-hanlin/GKAT)\]\[[Poster](https://icml.cc/media/PosterPDFs/ICML%202022/f231f2107df69eab0a3862d50018a9b2_mzhGQSV.png)\]
 
@@ -51,7 +61,7 @@ Highlight: We propose TANDEM3D, a co-training framework for exploration and deci
 Highlight: We leverage many mathematical techniques ranging from spectral analysis through dynamic programming and random walks and proposed a comprehensive approach for incorporating various masking mechanisms into Transformers architectures in a scalable way, including efficient d-dimensional RPE-masking and graph-kernel masking.
 <br><br>
 
-### <a name="HRF"></a> 4. **(ICLR 2022)** [**Hybrid Random Features**](https://arxiv.org/abs/2110.04367)
+### <a name="HRF"></a> 5. **(ICLR 2022)** [**Hybrid Random Features**](https://arxiv.org/abs/2110.04367)
 *Krzysztof Choromanski\*, **Han Lin**\*, Haoxian Chen\*, Yuanzhe Ma\*, Arijit Sehanobish\*, Deepali Jain, Michael S Ryoo, Jake Varley, Andy Zeng, Valerii Likhosherstov, Dmitry Kalashnikov, Vikas Sindhwani, Adrian Weller*
 <br>\[[Paper](https://arxiv.org/abs/2110.04367)\]\[[Code](https://github.com/HL-hanlin/HRF_ICLR2022)\]\[[Video](https://iclr.cc/virtual/2022/poster/6410)\]\[[Slides](https://iclr.cc/media/iclr-2022/Slides/6410.pdf)\]
 
@@ -60,7 +70,7 @@ Highlight: We leverage many mathematical techniques ranging from spectral analys
 Highlight: We propose a new class of random feature methods for linearizing softmax and Gaussian kernels called hybrid random features (HRFs) equipted with strong theoretical guarantees - unbiased approximation and strictly smaller worst-case relative errors than its counterparts.
 <br><br>
 
-### <a name="GKAT"></a> 5. **(Preprint 2021)** [**Graph Kernel Attention Transformers**](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf)
+### <a name="GKAT"></a> 6. **(Preprint 2021)** [**Graph Kernel Attention Transformers**](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf)
 *Krzysztof Choromanski\*, **Han Lin**\*, Haoxian Chen\*, Jack Parker-Holder*
 <br>\[[Paper](https://github.com/HL-hanlin/GKAT/blob/main/GKAT_16Jul2021.pdf)\]\[[Code](https://github.com/HL-hanlin/GKAT)\]
 
@@ -70,7 +80,7 @@ Highlight: We introduce a new class of graph neural networks, called GKAT, by co
 <br><br>
 
 
-### <a name="OMC"></a> 6. **(NeurIPS 2020)** [**Demystifying Orthogonal Monte Carlo and Beyond**](https://arxiv.org/abs/2005.13590)
+### <a name="OMC"></a> 7. **(NeurIPS 2020)** [**Demystifying Orthogonal Monte Carlo and Beyond**](https://arxiv.org/abs/2005.13590)
 ***Han Lin**\*, Haoxian Chen\*, Tianyi Zhang, Clement Laroche, Krzysztof Choromanski*
 <br>\[[Paper](https://arxiv.org/abs/2005.13590)\]\[[Code](https://github.com/HL-hanlin/OMC)\]\[[Video](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\]
 <img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/OMC.png?raw=true"  width="700px"/>
@@ -81,8 +91,8 @@ Highlight: In this paper we shed new light on the theoretical principles behind 
 <br><br>
 
 \* Co-First Authors, Equal Contribution.\\
-Slideslive video recording and conference poster presenter for \[[4](https://iclr.cc/virtual/2022/poster/6410), [6](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\]. \\
-Github code maintainer for \[[1](https://github.com/HL-hanlin/SMKD), [3](https://github.com/HL-hanlin/GKAT), [4](https://github.com/HL-hanlin/HRF_ICLR2022), [6](https://github.com/HL-hanlin/OMC)\], contributor for \[[2](https://jxu.ai/tandem3d/)\].
+Slideslive video recording and conference poster presenter for \[[5](https://iclr.cc/virtual/2022/poster/6410), [7](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\]. \\
+Github code maintainer for \[[2](https://github.com/HL-hanlin/SMKD), [4](https://github.com/HL-hanlin/GKAT), [5](https://github.com/HL-hanlin/HRF_ICLR2022), [7](https://github.com/HL-hanlin/OMC)\], contributor for \[[3](https://jxu.ai/tandem3d/)\].
 
 <br />
 
