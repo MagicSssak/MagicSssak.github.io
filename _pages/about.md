@@ -26,7 +26,7 @@ If you are interested in my research and would like collaboration, please feel f
 
 ### <a name="Topographer"></a> 1. **(Preprint 2023)** **Efficient Graph Field Integrators Meet Point Clouds**
 *Krzysztof Choromanski\*, Arijit Sehanobish\*, **Han Lin**\*, Yunfan Zhao\*, Eli Berger, Alvin Pan, Tetiana Parshakova, Tianyi Zhang, David Watkins, Valerii Likhosherstov, Somnath Basu Roy Chowdhury, Avinava Dubey, Deepali Jain, Tamas Sarlos, Snigdha Chaturvedi, Adrian Weller*
-<br>[Paper coming soon]
+<br>[Paper](https://arxiv.org/abs/2302.00942)
 
 <img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/ICML2023_front_image.png?raw=true"  width="820px"/>
 
