@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I'm a second-year master's student majoring in Computer Science at Columbia University. I'm a member of the [Digital Video and Multimedia (DVMM) Lab](https://www.ee.columbia.edu/ln/dvmm/) and the [Robotic Manipulation and Mobility (ROAM) Lab](https://roam.me.columbia.edu/) at Columbia University, fortunate to be advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/) and [Guangxing Han](https://guangxinghan.github.io/) on few-shot learning with Transformers; Prof. [Matei Ciocarlie](https://www.me.columbia.edu/faculty/matei-ciocarlie), Prof. [Shuran Song](https://www.cs.columbia.edu/~shurans/), and [Jingxi Xu](https://jxu.ai/) on tactile exploration for 3D objects. I also have the great pleasure to work with Prof. [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/) on several projects related to kernelized attention on Transformers and Graph Neural Networks.
+I'm a first-year master's student majoring in Computer Science at Columbia University. I'm a member of the [Digital Video and Multimedia (DVMM) Lab](https://www.ee.columbia.edu/ln/dvmm/) and the [Robotic Manipulation and Mobility (ROAM) Lab](https://roam.me.columbia.edu/) at Columbia University, fortunate to be advised by Prof. [Shih-Fu Chang](https://www.ee.columbia.edu/~sfchang/). It is also have the great honor to work with Prof. [Krzysztof Choromanski](https://research.google/people/KrzysztofChoromanski/) on several projects related to SE3-Performers and more.
 
-My research spans several fields of machine learning, including representation learning, reinforcement learning, deep learning frameworks design (e.g. Transformers, GNNs), as well as Monte Carlo methods. Despite such diversity, I'm chiefly fond of the **theory-grounded algorithms** with applications in computer vision and robotics. Specifically, my research aims at making algorithms more *efficient* \[[1](#Topographer),[5](#HRF),[7](#OMC)\] and *scalable* \[[4](#Toeplitz),
+My research spans several fields of machine learning, including representation learning and deep learning frameworks design (e.g. Transformers), as well as Monte Carlo methods. Despite such diversity, I'm chiefly fond of the **theory-grounded algorithms** with applications in computer vision and robotics. Specifically, my research aims at making algorithms more *efficient* \[[1](#Topographer),[5](#HRF),[7](#OMC)\] and *scalable* \[[4](#Toeplitz),
 [6](#GKAT)], as well as designing *simple but effective* \[[2](#SMKD)\] learning algorithms as a *better alternative to traditional heuristics* \[[3](#TANDEM)\].
 
 If you are interested in my research and would like collaboration, please feel free to contact me via email! :)
@@ -101,18 +101,10 @@ Github code maintainer for \[[2](https://github.com/HL-hanlin/SMKD), [4](https:/
 <h1 id="teaching"> Teaching Assistants</h1>
 
 
-- [COMS 4231 Analysis of Algorithms](http://www.cs.columbia.edu/~mihalis/cs4231/syllabus.html), Fall 2022
-  - Prof. Mihalis Yannakakis, Department of Computer Science, Columbia University
-- [COMS 4732 Computer Vision 2: Learning](https://drive.google.com/drive/folders/1WBraYFj2umBYm4yf057BqIJKtwP5KAP5), Spring 2022 
-  - Prof. Carl Vondrick, Department of Computer Science, Columbia University
-- [COMS 4721 Machine Learning for Data Science](https://www.cs.columbia.edu/~djhsu/coms4771-f20/), Spring 2022 
-  - Prof. Daniel Hsu, Department of Computer Science, Columbia University
-- [QMSS 5073 Machine Learning for Social Science](https://www.coursicle.com/columbia/courses/QMSS/G5073/), Fall 2021
-  - Prof. Michael Parrott, Department of Statistics, Columbia University
-- [IEOR 4007 Optimization Models & Methods for FE](https://www.coursicle.com/columbia/courses/IEOR/E4007/), Fall 2019 
+- [IEOR 4752 Forecasting: A Real-World Application], Fall 2022
   - Prof. Garud Iyengar, Department of IEOR, Columbia University
-- [IEOR 4418 Transportation Analytics & Logistics](https://www.coursicle.com/columbia/courses/IEOR/E4418/), Spring 2019 
-  - Prof. Adam Elmachtoub, Department of IEOR, Columbia University
+- [IEOR 4540 Data Mining](https://www.coursicle.com/columbia/courses/IEOR/E4540/), Fall 2022
+  - Prof. Krzysztof Choromanski, Department of IEOR, Columbia University
 
 
 <br />
@@ -122,7 +114,7 @@ Github code maintainer for \[[2](https://github.com/HL-hanlin/SMKD), [4](https:/
 <h1 id="services"> Academic Services</h1>
 
 
-- Conference Reviewer: ICML 2022, 2023; NeurIPS 2022
-- Conference Volunteer: RSS 2022
+%%- Conference Reviewer: ICML 2022, 2023; NeurIPS 2022
+%%- Conference Volunteer: RSS 2022
 
 
