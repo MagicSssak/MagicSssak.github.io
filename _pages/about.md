@@ -14,9 +14,9 @@ I'm a first-year master's student majoring in Computer Science at Columbia Unive
 My research spans several fields of machine learning, including representation learning and deep learning frameworks design (e.g. Transformers), as well as Monte Carlo methods. Despite such diversity, I'm chiefly fond of the **theory-grounded algorithms** with applications in computer vision and robotics. Specifically, my research aims at making algorithms more *efficient* \[[1](#Topographer),[5](#HRF),[7](#OMC)\] and *scalable* \[[4](#Toeplitz),
 [6](#GKAT)], as well as designing *simple but effective* \[[2](#SMKD)\] learning algorithms as a *better alternative to traditional heuristics* \[[3](#TANDEM)\].
 
-<! --If you are interested in my research and would like collaboration, please feel free to contact me via email! :) -->
+<!--If you are interested in my research and would like collaboration, please feel free to contact me via email! :) -->
 
-<! --**I'm applying for Fall 2023 CS Ph.D. programs and looking for Spring & Summer 2023 research assistant positions. Feel free to reach out!**
+<!--**I'm applying for Fall 2023 CS Ph.D. programs and looking for Spring & Summer 2023 research assistant positions. Feel free to reach out!**-->
 
 <br/>
 
