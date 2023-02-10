@@ -28,9 +28,9 @@ My research spans several fields of machine learning, including representation l
 **Xuande Feng\**, Zonglin Lyu\*
 <br>\[[Paper](https://arxiv.org/abs/2302.00942)\]
 
-<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/ICML2023_front_image.png?raw=true"  width="820px"/>
+<!--<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/ICML2023_front_image.png?raw=true"  width="820px"/>-->
 
-Highlight: We present two new classes of algorithms for efficient field integration on graphs encoding point clouds.
+Highlight: We present an new approach to encoder multivariate time series data and achieved over 10% performance improvement over variants such as Informer.
 <br><br>
 
 <!--### <a name="SMKD"></a> 2. **(Preprint 2023)** **Supervised Masked Knowledge Distillation for Few-shot Transformers**
