@@ -14,9 +14,9 @@ I'm a first-year master's student majoring in Computer Science at Columbia Unive
 My research spans several fields of machine learning, including representation learning and deep learning frameworks design (e.g. Transformers), as well as Monte Carlo methods. Despite such diversity, I'm chiefly fond of the **theory-grounded algorithms** with applications in computer vision and robotics. Specifically, my research aims at making algorithms more *efficient* \[[1](#Topographer),[5](#HRF),[7](#OMC)\] and *scalable* \[[4](#Toeplitz),
 [6](#GKAT)], as well as designing *simple but effective* \[[2](#SMKD)\] learning algorithms as a *better alternative to traditional heuristics* \[[3](#TANDEM)\].
 
-If you are interested in my research and would like collaboration, please feel free to contact me via email! :)
+<! --If you are interested in my research and would like collaboration, please feel free to contact me via email! :) -->
 
-**I'm applying for Fall 2023 CS Ph.D. programs and looking for Spring & Summer 2023 research assistant positions. Feel free to reach out!**
+<! --**I'm applying for Fall 2023 CS Ph.D. programs and looking for Spring & Summer 2023 research assistant positions. Feel free to reach out!**
 
 <br/>
 
@@ -91,8 +91,7 @@ Highlight: In this paper we shed new light on the theoretical principles behind 
 <br><br>
 
 \* Co-First Authors, Equal Contribution.\\
-Slideslive video recording and conference poster presenter for \[[5](https://iclr.cc/virtual/2022/poster/6410), [7](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\]. \\
-Github code maintainer for \[[2](https://github.com/HL-hanlin/SMKD), [4](https://github.com/HL-hanlin/GKAT), [5](https://github.com/HL-hanlin/HRF_ICLR2022), [7](https://github.com/HL-hanlin/OMC)\], contributor for \[[3](https://jxu.ai/tandem3d/)\].
+<! --Slideslive video recording and conference poster presenter for \[[5](https://iclr.cc/virtual/2022/poster/6410), [7](https://slideslive.com/38936089/demystifying-orthogonal-monte-carlo-and-beyond?ref=search-presentations-orthogonal+monte+carlo+and+be)\]. \\Github code maintainer for \[[2](https://github.com/HL-hanlin/SMKD), [4](https://github.com/HL-hanlin/GKAT), [5](https://github.com/HL-hanlin/HRF_ICLR2022), [7](https://github.com/HL-hanlin/OMC)\], contributor for \[[3](https://jxu.ai/tandem3d/)\].-->
 
 <br />
 
@@ -114,7 +113,7 @@ Github code maintainer for \[[2](https://github.com/HL-hanlin/SMKD), [4](https:/
 <h1 id="services"> Academic Services</h1>
 
 
-%%- Conference Reviewer: ICML 2022, 2023; NeurIPS 2022
-%%- Conference Volunteer: RSS 2022
+<! --%%- Conference Reviewer: ICML 2022, 2023; NeurIPS 2022-->
+<! --%%- Conference Volunteer: RSS 2022-->
 
 
