@@ -115,7 +115,7 @@ Highlight: In this paper we shed new light on the theoretical principles behind 
 
 
 <h1 id="teaching"> Instructed Modules</h1>
-### University of Londong:
+### Birkbeck, University of London:
 - [BUMN176H7 Introduction to Analytics and Business](https://www.bbk.ac.uk/courses/modules/bumn/BUMN176H7), Summer 2025
   - Xuande Feng, School of Management, Birkbeck, University of London 
 - [BUEM077S7 Econometrics of Financial Markets](https://www.bbk.ac.uk/courses/modules/buem/BUEM077S7), Spring 2025
