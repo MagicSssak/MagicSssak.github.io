@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a first-year Ph.D. student in Management at University of London. I'm a member of the Zing Lab led by [Prof. Mu Yang](https://www.bbk.ac.uk/our-staff/profile/9356136/mu-yang) and [Prof. Chunjia Han](https://www.bbk.ac.uk/our-staff/profile/9337799/chunjia-han) at Clore Management Center, and I am rather fortunate to be jointly advised both of talented scholars. My primary research interests are AI tools', such as Multimodal Foundation Models', application in marketing science and behaviour study. Before UofL, I was fortunate to develop machine learning and multimodal learning skill sets at Columbia University Digital Video and Multimodal Lab with [Hammad Ayyubi](https://hammad001.github.io), instructed by [Prof. Shih-Fu Chang](https://www.engineering.columbia.edu/faculty-staff/directory/dean-shih-fu-chang).
 
-I am broadly open to collaborations that aims at employing AI to measure, understand and resolve business research qeustions. Drop me <p><a href="mailto:xf2219@columbia.edu">an email</a></p> if you are interested!
+I am broadly open to collaborations that aims at employing AI to measure, understand and resolve business research qeustions. Drop me <a href="mailto:xf2219@columbia.edu">an email</a> if you are interested!
 
 <!--My research spans several fields of machine learning, including representation learning and deep learning frameworks design (e.g. Transformers), as well as Monte Carlo methods. Despite such diversity, I'm chiefly fond of the **theory-grounded algorithms** with applications in computer vision and robotics. Specifically, my research aims at making algorithms more *efficient* \[[1](#Topographer),[5](#HRF),[7](#OMC)\] and *scalable* \[[4](#Toeplitz),
 [6](#GKAT)], as well as designing *simple but effective* \[[2](#SMKD)\] learning algorithms as a *better alternative to traditional heuristics* \[[3](#TANDEM)\].
@@ -26,7 +26,7 @@ I am broadly open to collaborations that aims at employing AI to measure, unders
 <h1 id="publications"> Publications</h1>
 
 ### <a name="Human-like Image Location/Time Reasoning"></a> 1. **(NAACL findings 2025)** **PuzzleGPT: Emulating Human Puzzle-Solving Ability for Time and Location Prediction**
-Hammad Ayyubi\*, **<b>Xuande Feng<b>\**, Junzhang Liu\*, Xudong Lin, Zhecan Wang, Shih-Fu Chang
+Hammad Ayyubi\*, **<b>Xuande Feng</b>\**, Junzhang Liu\*, Xudong Lin, Zhecan Wang, Shih-Fu Chang
 <br>\[[Paper](https://arxiv.org/pdf/2501.14210)\]
 
 
@@ -34,7 +34,7 @@ Highlight: We designed a web-search multimodality augmented framework for acurat
 
 
 ### <a name="VIEW"></a> 1. **(EMNLP 2024)** **VIEWS: Entity-Aware News Video Captioning**
-Hammad Ayyubi, Tianqi Liu, Arsha Nagrani, Xudong Lin, Mingda Zhang, Anurag Arnab, Feng Han, Yukun Zhu, <b>Xuande Feng<b>, Kevin Zhang, Jialu Liu, Shih-Fu Chang
+Hammad Ayyubi, Tianqi Liu, Arsha Nagrani, Xudong Lin, Mingda Zhang, Anurag Arnab, Feng Han, Yukun Zhu, <b>Xuande Feng</b>, Kevin Zhang, Jialu Liu, Shih-Fu Chang
 <br>\[[Paper](https://arxiv.org/pdf/2501.14210)\]
 
 
@@ -42,7 +42,7 @@ Highlight: We designed a dataset and built a protocol for news video captioning.
 
 
 ### <a name="How Features Work"></a> 2. **(ICTAI 2022)** **How Features Benefit: Parallel Series Embedding for Multivariate Time Series Forecasting with Transformer**
-**<b>Xuande Feng<b>\**, Zonglin Lyu\*
+**<b>Xuande Feng</b>\**, Zonglin Lyu\*
 <br>\[[Paper](https://ieeexplore.ieee.org/abstract/document/10098079)\]
 
 <!--<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/ICML2023_front_image.png?raw=true"  width="820px"/>-->
