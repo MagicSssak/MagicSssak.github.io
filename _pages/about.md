@@ -112,10 +112,13 @@ Highlight: In this paper we shed new light on the theoretical principles behind 
 
 
 <h1 id="teaching"> Teaching Assistants</h1>
-
-
+### University of Londong:
+- [Economic and Financial Metrices], Spring 2025
+  - Prof. Zacharias Psaradakis, Department of Finance
+  
+### Columbia University:
 - [IEOR 4752 Forecasting: A Real-World Application](https://www.coursicle.com/columbia/courses/IEOR/), Fall 2022
-  - Prof. Garud Iyengar, Department of IEOR, Columbia University
+  - Prof. Syed, Department of IEOR, Columbia University
 - [IEOR 4540 Data Mining](https://www.coursicle.com/columbia/courses/IEOR/E4540/), Fall 2022
   - Prof. Krzysztof Choromanski, Department of IEOR, Columbia University
 
