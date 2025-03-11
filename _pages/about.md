@@ -34,7 +34,7 @@ Highlight: We designed a web-search multimodality augmented framework for acurat
 
 
 ### <a name="VIEW"></a> 2. **(EMNLP 2024)** **VIEWS: Entity-Aware News Video Captioning**
-Hammad Ayyubi, Tianqi Liu, Arsha Nagrani, Xudong Lin, Mingda Zhang, Anurag Arnab, Feng Han, Yukun Zhu, <b>Xuande Feng</b>, Kevin Zhang, Jialu Liu, Shih-Fu Chang
+Hammad Ayyubi\*, Tianqi Liu, Arsha Nagrani, Xudong Lin, Mingda Zhang, Anurag Arnab, Feng Han, Yukun Zhu, <b>Xuande Feng</b>, Kevin Zhang, Jialu Liu, Shih-Fu Chang
 <br>\[[Paper](https://arxiv.org/pdf/2501.14210)\]
 
 
