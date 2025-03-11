@@ -25,8 +25,7 @@ I am broadly open to collaborations that aims at employing AI to measure, unders
 
 <h1 id="publications"> Publications</h1>
 
-### <a name="Human-like Image Location/Time Reasoning"></a> 1. **(NAACL findings 2025)** **PuzzleGPT: Emulating Human Puzzle-Solving Ability for Time and
-Location Prediction**
+### <a name="Human-like Image Location/Time Reasoning"></a> 1. **(NAACL findings 2025)** **PuzzleGPT: Emulating Human Puzzle-Solving Ability for Time and Location Prediction**
 ** Hammad Ayyubi\*, Xuande Feng\**, Junzhang Liu\*, Xudong Lin, Zhecan Wang, Shih-Fu Chang
 <br>\[[Paper](https://arxiv.org/pdf/2501.14210)\]
 Highlight: We designed a web-search multimodality augmented framework for acurate imagery Location/Time reasoning.
