@@ -26,7 +26,7 @@ I am broadly open to collaborations that aims at employing AI to measure, unders
 <h1 id="publications"> Publications</h1>
 
 ### <a name="Human-like Image Location/Time Reasoning"></a> 1. **(NAACL findings 2025)** **PuzzleGPT: Emulating Human Puzzle-Solving Ability for Time and Location Prediction**
-Hammad Ayyubi\*, **<b>Xuande Feng</b>\**, Junzhang Liu\*, Xudong Lin, Zhecan Wang, Shih-Fu Chang
+Hammad Ayyubi\*, *<b>Xuande Feng</b>\**, Junzhang Liu\*, Xudong Lin, Zhecan Wang, Shih-Fu Chang
 <br>\[[Paper](https://arxiv.org/pdf/2501.14210)\]
 
 
@@ -42,7 +42,7 @@ Highlight: We designed a dataset and built a protocol for news video captioning.
 
 
 ### <a name="How Features Work"></a> 3. **(ICTAI 2022)** **How Features Benefit: Parallel Series Embedding for Multivariate Time Series Forecasting with Transformer**
-**<b>Xuande Feng</b>\**, Zonglin Lyu\*
+*<b>Xuande Feng</b>\**, Zonglin Lyu\*
 <br>\[[Paper](https://ieeexplore.ieee.org/abstract/document/10098079)\]
 
 <!--<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/ICML2023_front_image.png?raw=true"  width="820px"/>-->
@@ -114,11 +114,15 @@ Highlight: In this paper we shed new light on the theoretical principles behind 
 
 
 
-<h1 id="teaching"> Teaching Assistants</h1>
+<h1 id="teaching"> Instructed Modules</h1>
 ### University of Londong:
-- [Economic and Financial Metrices], Spring 2025
-  - Prof. Zacharias Psaradakis, Department of Finance
-  
+- [BUMN176H7 Introduction to Analytics and Business](https://www.bbk.ac.uk/courses/modules/bumn/BUMN176H7), Summer 2025
+  - Xuande Feng, School of Management, Birkbeck, University of London 
+- [BUEM077S7 Econometrics of Financial Markets](https://www.bbk.ac.uk/courses/modules/buem/BUEM077S7), Spring 2025
+  - Prof. Zacharias Psaradakis, Department of Business, Birkbeck, University of London
+
+
+<h1 id="teaching"> Teaching Assistants</h1>
 ### Columbia University:
 - [IEOR 4752 Forecasting: A Real-World Application](https://www.coursicle.com/columbia/courses/IEOR/), Fall 2022
   - Prof. Syed, Department of IEOR, Columbia University
