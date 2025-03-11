@@ -26,20 +26,23 @@ I am broadly open to collaborations that aims at employing AI to measure, unders
 <h1 id="publications"> Publications</h1>
 
 ### <a name="Human-like Image Location/Time Reasoning"></a> 1. **(NAACL findings 2025)** **PuzzleGPT: Emulating Human Puzzle-Solving Ability for Time and Location Prediction**
-** Hammad Ayyubi\*, Xuande Feng\**, Junzhang Liu\*, Xudong Lin, Zhecan Wang, Shih-Fu Chang
+Hammad Ayyubi\*, **<b>Xuande Feng<b>\**, Junzhang Liu\*, Xudong Lin, Zhecan Wang, Shih-Fu Chang
 <br>\[[Paper](https://arxiv.org/pdf/2501.14210)\]
+
+
 Highlight: We designed a web-search multimodality augmented framework for acurate imagery Location/Time reasoning.
 
 
 ### <a name="VIEW"></a> 1. **(EMNLP 2024)** **VIEWS: Entity-Aware News Video Captioning**
-** Hammad Ayyubi, Tianqi Liu, Arsha Nagrani, Xudong Lin, Mingda Zhang, Anurag Arnab, Feng Han, Yukun Zhu,
-Xuande Feng, Kevin Zhang, Jialu Liu, Shih-Fu Chang
+Hammad Ayyubi, Tianqi Liu, Arsha Nagrani, Xudong Lin, Mingda Zhang, Anurag Arnab, Feng Han, Yukun Zhu, <b>Xuande Feng<b>, Kevin Zhang, Jialu Liu, Shih-Fu Chang
 <br>\[[Paper](https://arxiv.org/pdf/2501.14210)\]
+
+
 Highlight: We designed a dataset and built a protocol for news video captioning.
 
 
 ### <a name="How Features Work"></a> 2. **(ICTAI 2022)** **How Features Benefit: Parallel Series Embedding for Multivariate Time Series Forecasting with Transformer**
-**Xuande Feng\**, Zonglin Lyu\*
+**<b>Xuande Feng<b>\**, Zonglin Lyu\*
 <br>\[[Paper](https://ieeexplore.ieee.org/abstract/document/10098079)\]
 
 <!--<img align='center' src="https://github.com/HL-hanlin/HL-hanlin.github.io/blob/master/images/ICML2023_front_image.png?raw=true"  width="820px"/>-->
