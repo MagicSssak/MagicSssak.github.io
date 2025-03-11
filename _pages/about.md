@@ -33,7 +33,7 @@ Hammad Ayyubi\*, **<b>Xuande Feng</b>\**, Junzhang Liu\*, Xudong Lin, Zhecan Wan
 Highlight: We designed a web-search multimodality augmented framework for acurate imagery Location/Time reasoning.
 
 
-### <a name="VIEW"></a> 1. **(EMNLP 2024)** **VIEWS: Entity-Aware News Video Captioning**
+### <a name="VIEW"></a> 2. **(EMNLP 2024)** **VIEWS: Entity-Aware News Video Captioning**
 Hammad Ayyubi, Tianqi Liu, Arsha Nagrani, Xudong Lin, Mingda Zhang, Anurag Arnab, Feng Han, Yukun Zhu, <b>Xuande Feng</b>, Kevin Zhang, Jialu Liu, Shih-Fu Chang
 <br>\[[Paper](https://arxiv.org/pdf/2501.14210)\]
 
@@ -41,7 +41,7 @@ Hammad Ayyubi, Tianqi Liu, Arsha Nagrani, Xudong Lin, Mingda Zhang, Anurag Arnab
 Highlight: We designed a dataset and built a protocol for news video captioning.
 
 
-### <a name="How Features Work"></a> 2. **(ICTAI 2022)** **How Features Benefit: Parallel Series Embedding for Multivariate Time Series Forecasting with Transformer**
+### <a name="How Features Work"></a> 3. **(ICTAI 2022)** **How Features Benefit: Parallel Series Embedding for Multivariate Time Series Forecasting with Transformer**
 **<b>Xuande Feng</b>\**, Zonglin Lyu\*
 <br>\[[Paper](https://ieeexplore.ieee.org/abstract/document/10098079)\]
 
