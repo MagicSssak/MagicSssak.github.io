@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-UK"
 title                    : "Welcome to Xuande's Website!"
 title_separator          : "-"
 name                     : &name "Xuande"
-description              : &description "MS in Computer Science at Columbia University"
+description              : &description "Ph.D. candidate in Management at BirkBeck, University of London"
 url                      : https://magicsssak.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "MagicSssak/MagicSssak.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xuande Feng"
   avatar           : "sssak.png"
-  bio              : "MS in Computer Science @ Columbia University"
-  location         : "New York, NY"
+  bio              : "Ph.D. candidate at BirkBeck, University of London"
+  location         : "London, UK"
   employer         :
   #pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=Z9s5gHEAAAAJ"
